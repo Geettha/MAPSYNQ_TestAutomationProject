@@ -105,3 +105,5 @@ Not implemented [Due to Time Constraint]
 5) Parking Feature (# of scenario 1)
 6) Speed Feature (#of scenario 1)
 7) Toll Features (#of scenarios 3)
+
+#Test Run Results Report in /TestAutomationProject/output
